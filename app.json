@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
+  "repository": "hhttps://github.com/Mufaz100/Mallu_hero_2.0",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "1890385137"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "MufazHd"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
